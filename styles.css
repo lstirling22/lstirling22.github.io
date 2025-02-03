@@ -1,0 +1,30 @@
+body{
+		background-color:#FFC0CB;
+	
+	
+}	
+
+
+nav a{
+	display:inline-block;
+	color:#89CFF0;
+	font-family:Bolts SF;
+	font-size:200%;
+	border-radius:15px;
+	padding:10px;
+	background-color:lightgrey;
+	
+	
+}
+nav a:hover{
+	background-color:grey;
+}
+
+
+h1{
+	background-color:#89CFF0;
+	
+}
+h2{
+	background-color:#00498
+}
